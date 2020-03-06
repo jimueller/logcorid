@@ -1,0 +1,17 @@
+{
+  "name": "logcorid",
+  "version": "1.0.0",
+  "description": "Test logging correlation id in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cls-hooked": "^4.2.2",
+    "cls-rtracer": "^1.3.0",
+    "express": "^4.17.1",
+    "winston": "^3.2.1"
+  }
+}
